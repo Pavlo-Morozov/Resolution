@@ -1,0 +1,2 @@
+# Resolution
+Define screen resolution
